@@ -1,4 +1,4 @@
-﻿| **Kategorie** | **Kriterium** | **Spring Boot GraphQL Kickstart** |  | **Spring GraphQL Pivotal** |  | **Netflix DGS** |  | **SmallRye GraphQL** |  |
+﻿| **Kategorie** | **Kriterium** | **Kickstart** |  | **Spring GraphQL** |  | **DGS** |  | **SmallRye** |  |
 |---|---|---|---|---|---|---|---|---|---|
 |  |  | Ergebnis | Anmerkungen | Ergebnis | Anmerkungen | Ergebnis | Anmerkungen | Ergebnis | Anmerkungen |
 | Schema Support  | Directives | YES |  | YES |  | YES | Hierzu findet sich nichts in der Dokumentation. Allerdings gibt es im Github eine Diskussion hierzu mit Beschreibung ( https://github.com/Netflix/dgs-framework/discussions/69 ) | YES/NO | Custom Directives werden angeboten. Einschräkung: Nur auf "fields" und "types". (https://github.com/smallrye/smallrye-graphql/issues/628) |
